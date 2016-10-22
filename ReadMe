@@ -1,0 +1,12 @@
+Live Session 06 Assignment
+
+This project provide code to examine rolling sales data of NY neighborhoods.
+
+Source of data is from the NY city goverment:  http://www1.nyc.gov/home/search/index.page?search-terms=Rolling+sales+update
+
+This code will loop through a vector of files, peform some clean up tasks, print out some histograms and plots, and finally will output a clean file, 
+historgrams, and plots for  each data file.
+
+The code is located in Analysis directory
+
+Data and results is located in the Data directory
